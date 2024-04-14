@@ -8,7 +8,7 @@ This project focuses on back-end route development for CRUD operations such as "
 
 ## Demonstrations
 
-<video controls src="assets/video_walkthrough/e-commerce_vid_walkthrough.mp4" title="Demonstration Video"></video>
+!<video controls src="assets/video_walkthrough/e-commerce_vid_walkthrough.mp4" title="Demonstration Video"></video>
 
 ## Screenshots
 
