@@ -10,7 +10,13 @@ This project focuses on back-end route development for CRUD operations such as "
 
 ## Demonstrations
 
-!<video controls src="assets/video_walkthrough/e-commerce_vid_walkthrough.mp4" title="Demonstration Video"></video>
+Part 1 shows the creation of the database, creation and seeding of the tables, and turning on the server.
+
+https://github.com/MelissaCade/e-commerce-backend/assets/160056156/37a03837-74da-4cd9-839c-041478ca6f79
+
+Part 2 shows the different routes in Insomnia.
+
+https://github.com/MelissaCade/e-commerce-backend/assets/160056156/890f01bd-100c-4b38-93bc-1b50dd848a04
 
 ## Screenshots
 
