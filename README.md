@@ -1,7 +1,5 @@
 # e-commerce-backend
 
-CHANGING README CHANGING README
-
 Building a back end for a typical e-commerce site.
 
 ## Description
